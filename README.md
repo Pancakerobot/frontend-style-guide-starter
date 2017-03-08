@@ -1,4 +1,4 @@
-# SASS Code Style Guide
+# Style Guide
 #### Index
 - BEM  
 - Formatting Basics
