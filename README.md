@@ -1,4 +1,4 @@
-# Style Guide
+# Style Guide (in progress)
 #### Index
 - BEM  
 - Formatting Basics
